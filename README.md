@@ -1,6 +1,7 @@
 Using Non-speaker Annotations for Low-Resource NER
 =====================
 This is a copy of the repo located [here](https://github.com/CogComp/ns-annotation).
+
 Code for paper "[Building Low-Resource NER Models Using Non-Speaker Annotations](https://cogcomp.seas.upenn.edu/papers/TMMR21.pdf)", Workshop on Data Science with Human-in-the-loop: Language Advances (DaSH-LA), NAACL - 2021
 
 ## Abstract
